@@ -2,6 +2,7 @@
   "name": "com.unity.git",
   "displayName": "Unity Git",
   "version": "0.0.1",
+  "author": "Jil Chabaro",
   "description": "Unity Git",
   "keywords": [
     "git"
